@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Sentinel</string>
+    <string name="google_web_client_id">1031391102219-vj27f2n1dgbrnde9f2s9hjm56353d1fu.apps.googleusercontent.com</string>
+    <string name="sign_out">Sign Out</string>
 </resources>
