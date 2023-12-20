@@ -6,7 +6,7 @@ SENTINEL is an android-based application that is intended to ensure food safety 
 
 ## Team Members 
 
-| ID             | Nama                           | Perguruan Tinggi                 |
+| ID             | Name                           | University                  |
 | -------------- | ------------------------------ | ---------------------------------|
 | (ML) M128BSX1133 | Sarah Humaira                | Politeknik Negeri Jakarta       |
 | (ML) M014BSY1296 | Kadek Dwitya Adhi Pradyto     | Universitas Udayana             |
