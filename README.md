@@ -15,3 +15,4 @@ SENTINEL is an android-based application that is intended to ensure food safety 
 | (CC) C491BSY3453 | Raden Wahid Ikhsanudin        | Universitas Muhammadiyah Bandung|
 | (MD) A128BSY2308 | Agus Setiawan                 | Politeknik Negeri Jakarta       |
 
+![gambar](sentinel.png)
